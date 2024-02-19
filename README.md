@@ -1,1 +1,1 @@
-Privacy disclaimer
+WordsGrid add description
