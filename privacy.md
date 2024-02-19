@@ -1,1 +1,1 @@
-This app does not collect any user personal information.
+WordsGrid does not collect any data.
